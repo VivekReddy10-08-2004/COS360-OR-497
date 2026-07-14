@@ -1,6 +1,6 @@
 # Mathematical Expression Parser
 
-This project implements the activity in `To-Do.md`: a lexer and recursive
+This project implements a lexer and recursive
 descent parser written from scratch in Python. It accepts integers, decimal
 numbers, identifiers, parentheses, unary signs, and the operators `+`, `-`,
 `*`, `/`, and `^`.
